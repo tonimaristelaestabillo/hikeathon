@@ -1,0 +1,57 @@
+[
+    {
+        "name": "MOUNT DARAITAN",
+        "weatherTemp": 18,
+        "location": "Brgy. Daraitan, Tanay",
+        "height": 739,
+        "difficulty": 4,
+        "about": "Situated on the border of Tanay, Rizal and General Nakar, Quezon, just at the heart of the Sierra Madre Mountain Ranges is Mt. Daraitan",
+        "duration": "2.5 to 4 hours",
+        "water": 2,
+        "image": "https://content.shopback.com/ph/wp-content/uploads/2018/07/19185657/23235898581_6e91c0d7d4_k.jpg"
+    },
+    {
+        "name": "MOUNT MACULOT",
+        "weatherTemp": 28,
+        "location": "Mountaineer’s Store, Brgy. 7 “Siete”, Cuenca Batangas",
+        "height": 930,
+        "difficulty": 3,
+        "about": "Time to experience one of Batangas’ treasures, Mt. Maculot! If you are looking for the perfect “Instagram-worthy” photo, hike your way Maculot’s Rockies. There you will find an impeccable view of the Taal Lake, and the rest of Batangas. ",
+        "duration": "3.5 to 5 hours",
+        "water": 2,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/10/36/e5/mt-maculot.jpg"
+    },
+    {
+        "name": "MOUNT PICO DE LORO",
+        "weatherTemp": 28,
+        "location": "DENR Ternate, Cavite",
+        "height": 688,
+        "difficulty": 3,
+        "about": "Mt. Palay-Palay, or as it’s more commonly called, Mt. Pico De Loro, is one of the best spots near Manila for mountain climbing activities. It’s currently closed for rehabilitation but, when it opens, it’s definitely a must-hike.",
+        "duration": "4 to 5 hours",
+        "water": 2,
+        "image": "http://www.pinoymountaineer.com/wp-content/uploads/2016/09/12606870_1219948824686169_633148945_n-2.jpg"
+    },
+    {
+        "name": "MOUNT PULAG",
+        "weatherTemp": 13,
+        "location": "Ambangeg Ranger Station, Bokod, Benguet",
+        "height": 2922,
+        "difficulty": 4,
+        "about": "Considered the highest peak in Luzon and the third highest in the whole country, Mt. Pulag was coined the “playground of the gods” by the native tribes.",
+        "duration": "4 to 5 hours",
+        "water": 3,
+        "image": "https://www.mountain-forecast.com/system/images/4157/large/Mount-Pulag.jpg?1338012586"
+    },
+    {
+        "name": "MOUNT ULAP",
+        "weatherTemp": 18,
+        "location": "Ampucao, Itogon, Benguet",
+        "height": 1846,
+        "difficulty": 4,
+        "about": "Mt. Ulap’s trail spans around 8 kilometers, at the end of which is a spectacular view of the Cordilleras. As you trek through the pine and grassland ridges, you’ll also get to marvel at the Igorot culture, as you pass by their burial caves and hanging bridges.",
+        "duration": "4 to 6 hours",
+        "water": 3,
+        "image": "http://www.pinoymountaineer.com/wp-content/uploads/2015/11/12295453_10154368837273082_8354020486204341191_n.jpg"
+    }
+]
