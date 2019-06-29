@@ -1,9 +1,13 @@
+import axios from 'axios';
 import { FETCH_MOUNTAINS } from './types';
-import mountains from '../data/mountains.json'
 
 export const fetchMountains = () => async dispatch => {
-    dispatch({
-        type: FETCH_MOUNTAINS,
-        payload: mountains
-    })
+    const response = await axios.get(`https://intense-stream-35672.herokuapp.com/destinations`);
+
+    if (response.status === 200) {
+        dispatch({
+            type: FETCH_MOUNTAINS,
+            payload: response.data
+        })
+    }
 }

@@ -8,7 +8,7 @@ const SCREEN_HEIGHT = Dimensions.get('window').height;
 
 const Card = ({ detail, type }) => {
 
-    const { height, image, name, weatherTemp } = detail;
+    const { height, image, name, temperature } = detail;
 
     const {
         cardDetailsContainer,
@@ -35,7 +35,7 @@ const Card = ({ detail, type }) => {
                         <Text style={cardHeight}> {height}m</Text>
                     </View>
                     <View style={cardAttribute}>
-                        <Text style={cardCelsius}> {weatherTemp}</Text>
+                        <Text style={cardCelsius}> {temperature}</Text>
                         <Text style={cardDegree}>°</Text>
                     </View>
                 </View>

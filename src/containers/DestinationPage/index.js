@@ -30,7 +30,7 @@ class DestinationPage extends Component {
             carouselDescription
         } = styles;
 
-        const { about, difficulty, duration, height, image, location, name, water, weatherTemp } = this.props.navigation.getParam('destination');
+        const { about, difficulty, duration, height, image, location, name, water, temperature } = this.props.navigation.getParam('destination');
 
         const details = [
             {
@@ -71,7 +71,7 @@ class DestinationPage extends Component {
                                 <Text style={cardHeight}> {height}m</Text>
                             </View>
                             <View style={cardAttribute}>
-                                <Text style={cardCelsius}> {weatherTemp}</Text>
+                                <Text style={cardCelsius}> {temperature}</Text>
                                 <Text style={cardDegree}>°</Text>
                             </View>
                         </View>

@@ -1,7 +1,7 @@
 [
     {
         "name": "MOUNT DARAITAN",
-        "weatherTemp": 18,
+        "temperature": 18,
         "location": "Brgy. Daraitan, Tanay",
         "height": 739,
         "difficulty": 4,
@@ -12,7 +12,7 @@
     },
     {
         "name": "MOUNT MACULOT",
-        "weatherTemp": 28,
+        "temperature": 28,
         "location": "Mountaineer’s Store, Brgy. 7 “Siete”, Cuenca Batangas",
         "height": 930,
         "difficulty": 3,
@@ -23,7 +23,7 @@
     },
     {
         "name": "MOUNT PICO DE LORO",
-        "weatherTemp": 28,
+        "temperature": 28,
         "location": "DENR Ternate, Cavite",
         "height": 688,
         "difficulty": 3,
@@ -34,7 +34,7 @@
     },
     {
         "name": "MOUNT PULAG",
-        "weatherTemp": 13,
+        "temperature": 13,
         "location": "Ambangeg Ranger Station, Bokod, Benguet",
         "height": 2922,
         "difficulty": 4,
@@ -45,7 +45,7 @@
     },
     {
         "name": "MOUNT ULAP",
-        "weatherTemp": 18,
+        "temperature": 18,
         "location": "Ampucao, Itogon, Benguet",
         "height": 1846,
         "difficulty": 4,
