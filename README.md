@@ -27,7 +27,7 @@ A sample hiking app made with the managed workflow of Expo.
    - To install depedencies in package.json, npm install. 
    - Download Expo Client App. 
         - For Android, [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en)
-        - For IOS, [Google Play](https://apps.apple.com/us/app/expo-client/id982107779)
+        - For IOS, [Apple Store](https://apps.apple.com/us/app/expo-client/id982107779)
    - Run expo project using `expo start`.
    - Scan generated QR.
    - To build app binaries in release version use `expo build:android` for apk, `expo build:ios` for .ipa.
